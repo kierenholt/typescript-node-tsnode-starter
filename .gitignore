@@ -1,0 +1,4 @@
+trades.csv
+node_modules
+*.js
+*.csv
